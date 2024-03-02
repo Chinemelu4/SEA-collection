@@ -44,3 +44,5 @@ User contributions are stored in a SQLite database ('user_data.db'). Users can d
 5. **Download Contributions:**
    - Enter your username.
    - Click the "Download My Contributions" button to download your contributions in CSV format.
+  
+   <a href="https://sea-collection.streamlit.app/" target="_blank">View Web App</a>
